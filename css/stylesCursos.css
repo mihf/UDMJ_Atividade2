@@ -1,0 +1,94 @@
+html, body {
+    margin: 0px 0px 0px 0px;
+    background-color: #D9D8D2;
+}
+
+h1 {
+    text-align: center;
+    position: fixed;
+    margin: -100px 0 0 0;
+    width: 100%;
+    background-color: #F2CB05;
+    padding: 8px 0 15px 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    color:#910d0d;
+}
+
+#Corpo {
+    background-color: #d9b504b6;
+    border-radius: 10px;
+    position: relative;
+    margin-top: 100px;
+    margin-left: 200px;
+    width: 1080px;
+}
+
+#Corpo ul li {
+    display: inline;
+}
+
+#Corpo p {
+    width: 500px;
+    padding-top: 30px;
+    color: #3d0808;
+}
+
+#Corpo img {
+    margin-top: -400px;
+    margin-bottom: 90px;
+    margin-left: 550px;
+    border: #910d0d;
+    border-style: solid;
+    border-width: 25px;
+    border-radius: 10px;
+}
+
+footer {
+    position: absolute;
+    bottom: -15px;
+    width: 100%;
+    background-color: #72716c;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer ul {
+    padding:0px;
+    margin:0px;
+    background-color:#aaa9a2;
+    list-style:none;
+    padding: 2px 130px;
+}
+
+#Titulos h4{
+    display: inline;
+    padding: 0 200px 0 130px;
+    font-size: large;
+    color: #aaa9a2;
+}
+
+footer a {
+    text-decoration: none;
+    color: #3d0808;
+}
+
+.SobreNos ul li{
+    width: 240px;
+    margin-left: 385px;
+    margin-top: -22px;
+    color: #3d0808;
+}
+
+
+.Contato p {
+    width: 300px;
+    margin-left: 808px;
+    margin-top: -93px;
+    margin-bottom: 0;
+    color: #3d0808;
+}
+
+.Contato a {
+    margin: -900px 0 0 809px;
+    color: #3d0808;
+}
