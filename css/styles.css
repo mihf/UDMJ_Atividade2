@@ -1,0 +1,149 @@
+html, body {
+    margin: 0px 0px 0px 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#SpeakUp {
+    position: fixed;
+    margin: auto;
+    width: 100%;
+    background-color: #F2CB05;
+}
+
+h1 {
+    padding: 8px 0 15px 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+}
+
+#Participar {
+    padding: 140px 0 12px 5px;
+    margin: 0 0 0 0;
+    width: 100%;
+    background-color:#910d0d;
+    color: #3d0808;
+    transition: top 0.3s;
+}
+
+#Menu {
+    position: fixed;
+    width: 100%;
+    margin-top: -130px;
+}
+
+#Menu ul {
+    margin:0px;
+    background-color:#D9B504;
+    list-style:none;
+    padding: 0 0 0 530px;
+}
+
+#Menu ul li { 
+    display: inline;
+}
+
+#Menu ul li a {
+    padding: 8px 10px;
+    display: inline-block;
+
+    /* visual do link */
+    background-color:#D9B504;
+    color:  #3d0808;;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    border: #D9B504;
+    border-style: solid;
+    border-width: 5px;
+}
+
+#Menu ul li a:hover{
+    background-color:#977f07;
+    color: #D9D8D2;
+    border-radius: 10px;
+}
+
+#Principal {
+    margin: 0px 450px 30px 450px;
+}
+
+#Principal a{
+    color: #550531;
+    text-decoration: none;   
+     padding: 100px;
+}
+
+#Principal p {
+    color: #3d0808;
+}
+
+#Ingles, #Frances, #Italiano, #Espanhol, #Alemao {
+    padding: 60px 60px 60px 60px;
+    height: 291px;
+    width: 300px;
+    background-color: #d9b504cb;
+    margin-top: -415px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+#Bandeiras {
+    margin-left: 415px;
+    margin-top: 30px;
+    width:31%;
+    height: 411px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+footer {
+    width: 100%;
+    background-color: #72716c;
+    padding: 5px 0 0 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer ul {
+    padding:0px;
+    margin:0px;
+    background-color:#aaa9a2;
+    list-style:none;
+    padding: 2px 130px;
+}
+
+#Titulos h4{
+    display: inline;
+    padding: 0 200px 0 130px;
+    font-size: large;
+    color: #aaa9a2;
+}
+
+footer a {
+    text-decoration: none;
+    color: #3d0808;
+}
+
+.SobreNos ul li{
+    width: 240px;
+    margin-left: 385px;
+    margin-top: -22px;
+    color: #3d0808;
+}
+
+
+.Contato p {
+    width: 300px;
+    margin-left: 808px;
+    margin-top: -93px;
+    margin-bottom: 0;
+    color: #3d0808;
+}
+
+.Contato a {
+    margin: -900px 0 0 809px;
+    color: #3d0808;
+}
